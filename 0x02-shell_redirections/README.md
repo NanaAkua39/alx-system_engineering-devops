@@ -1,1 +1,1 @@
-This is a project on shell redirections
+Readme for shell redirections
